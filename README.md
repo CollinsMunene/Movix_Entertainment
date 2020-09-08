@@ -1,6 +1,6 @@
 <h1 align="center">Movtrix Entertainment</h1>
 
-![Logo](Movtrix.png)
+![Logo](Movtrixx.png)
 
 > A mobile Application Designed using Flutter Framework
 
@@ -25,7 +25,7 @@ The Flutter framework contains two sets of widgets which conform to specific des
 
 </ul>
 
-<br>
+
 >This Repository is aimed at helping those who are working A Movie-like Mobile Application to have a ready base ready for cutomization.
 
  ## A few assumptions:
