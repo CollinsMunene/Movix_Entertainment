@@ -9,15 +9,21 @@ This Codebase only covers the front-end part of the Application. For the Backend
 
 ## Introduction
 
-> Flutter is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Linux, Mac, Windows and the web from a single codebase[6].
+> Flutter is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Linux, Mac, Windows and the web from a single codebase.
 
 >The key features that I like in Flutter are:
 ><ul>
+
 <li>Hot Reload: With which modifications to source files can be injected into a running application</li>
+
 <li>Fast to code: Increase the speed to develop features by about 200% to 300%. *</li>
-<li>Design-Specific Widgets: The Flutter framework contains two sets of widgets which conform to specific design languages. Material Design widgets implement Google's design language of the same name, and Cupertino widgets implement Apple's iOS Human interface guidelines. *</li>
+
+<li>Design-Specific Widgets: 
+The Flutter framework contains two sets of widgets which conform to specific design languages. Material Design widgets implement Google's design language of the same name, and Cupertino widgets implement Apple's iOS Human interface guidelines. *</li>
+
 </ul>
 
+<br>
 >This Repository is aimed at helping those who are working A Movie-like Mobile Application to have a ready base ready for cutomization.
 
  ## A few assumptions:
@@ -26,27 +32,34 @@ This Codebase only covers the front-end part of the Application. For the Backend
 <li>You know your way around tools like Android Studio and Visual Studio Code</li>
 </ol>
 
+## Project Structure:
+
+![Optional Text](Movtrixx.png)
+
 >The Repository contains 2 main folders and 1 main file namely:
 <ol>
+
 <li>assets</li>
+
 This Folder contains our project Icons and Images
 <li>lib</li>
+
 This Folder contains the .dart files that contain our flutter code for the main screens and the different fron-end components of our application.
 
 This Folder contains:
-> Components folder
+> Components folder - 
 This folder contains the code for our application general components.
 
-> models folder
+> models folder - 
 This folder contains our demo data. When you connect your endppoints, you will probaly use this folder alot as a data store.
 
-> Screens folder
+> Screens folder - 
 This Folder contains the Code for our different screens in the application.
 
-> constants.dart file
+> constants.dart file - 
 This file contains our constant variables.
 
-> main.dart file
+> main.dart file -
 This file acts as our maini entry file.
 
 <li>pubsec.yml</li>
@@ -57,9 +70,6 @@ This File contains some of the Project settings including the location of our as
 >Movtrix Entertainment specializes in Providing movies for their customers. This Application was developed to allow a customer to log in into the application and be able to search and select any movie that is on the application and be able to watch it .
 > Once you open the Application you will find a list of all the movies and series available and also be able to view the specific movie/series details and be able to watch it.
 
-# Project Structure
-
-![Optional Text](../master/myFolder/movtrix.png)
 
 ## Code To Look Out For
 
