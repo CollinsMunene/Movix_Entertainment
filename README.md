@@ -1,5 +1,7 @@
 <h1 align="center">Movtrix Entertainment</h1>
 
+![Logo](Movtrix.png)
+
 > A mobile Application Designed using Flutter Framework
 
 >NB:// 
@@ -34,7 +36,7 @@ The Flutter framework contains two sets of widgets which conform to specific des
 
 ## Project Structure:
 
-![Optional Text](Movtrixx.png)
+![Structure](Movtrix.png)
 
 >The Repository contains 2 main folders and 1 main file namely:
 <ol>
